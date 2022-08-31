@@ -1,4 +1,5 @@
-# Django REST API Lab + Homework
+# Django REST API Lab
+
 
 Now that we have experience working with multiple forms of relational databases through Sequelize and now Django, lets build up a quick database to practice up our skills.
 
