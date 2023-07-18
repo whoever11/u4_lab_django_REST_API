@@ -1,7 +1,7 @@
 # Django REST API Lab
 
 
-Now that we have experience working with multiple forms of relational databases through Sequelize and now Django, lets build up a quick database to practice up our skills.
+Now that we have experience working with multiple forms of relational databases through Mongoose and now Django, lets build up a quick database to practice up our skills.
 
 Create a table of teams in a sports league (any league - NFL, NHL, MLB, NBA). Each team should have a Name, Location, Division, as well as a number of Wins and Losses through the season. Once our Teams model has been created, lets add some players to each team. Each player should have a name, position, age, a variable whether or not they are on the Injured Reserved list, and any number of other stats that you think are relevant. These players should belong to their respective teams.
 
