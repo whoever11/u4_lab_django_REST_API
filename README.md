@@ -2,6 +2,7 @@
 
 # Django REST API Lab
 
+!()[https://i.ebayimg.com/images/g/4N0AAOSwcKxiGAR-/s-l1200.webp]
 
 Now that we have experience working with multiple forms of relational databases through Mongoose and now Django, lets build up a quick database to practice up our skills.
 
